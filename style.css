@@ -1,0 +1,22 @@
+body {
+  background-image: url(bg-1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  background-attachment: fixed;
+}
+/* Use a Background RGBA Color */
+div {
+  background-color: rgba(240, 127, 127, 0.7);
+}
+/* use a Background Image */
+div {
+  background-image: url(bg-2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px 0;
+}
